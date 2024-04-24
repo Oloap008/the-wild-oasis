@@ -117,7 +117,6 @@ function App() {
 
         <GlobalStyles />
         <RouterProvider router={router} />
-
         <Toaster
           position="top-center"
           gutter={12}
